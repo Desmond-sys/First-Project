@@ -17,6 +17,6 @@ This project uses data analysis and data science techniques to enhance treatment
 - **Programming Languages**: Python, R
 - **Libraries/Frameworks**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools**: Jupyter Notebooks, Git, GitHub
-- **Data Sources**: Public healthcare datasets, clinical trial data, or hospital patient records (de-identified)
+- **Data Sources**: Public healthcare datasets, clinical trial data, or hospital patient records
 
 
