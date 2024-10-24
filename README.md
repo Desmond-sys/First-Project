@@ -18,5 +18,5 @@ This project uses data analysis and data science techniques to enhance treatment
 - **Libraries/Frameworks**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools**: Jupyter Notebooks, Git, GitHub
 - **Data Sources**: Public healthcare datasets, clinical trial data, or hospital patient records
-
+I am ready for this data analysis journey
 
